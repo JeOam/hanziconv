@@ -9,3 +9,4 @@ docs/_build
 hanziconv.egg-info
 htmlcov
 MANIFEST
+.idea/
